@@ -30,9 +30,6 @@
 <!--Intro start-->
 
 
-
-- 📝 I regularly write articles on [Hashnode](https://juanpga872t.hashnode.dev/)
-
 - 📫 Feel free to reach me out **juanpagacevedo@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
