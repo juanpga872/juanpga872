@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,figma,firebase,redis,github,html,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,figma,firebase,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
 
